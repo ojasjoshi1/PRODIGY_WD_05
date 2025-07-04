@@ -26,3 +26,19 @@ CSS3 (Flexbox/Grid)
 JavaScript (Fetch API, DOM manipulation)
 
 OpenWeatherMap API
+
+📁 File Structure
+
+weather-app/
+│
+├── index.html        # Main HTML file
+
+├── style.css         # Styling
+
+├── script.js         # JavaScript logic (fetch weather, DOM updates)
+
+└── README.md         # Project overview
+👨‍💻Author : 
+
+Ojas Onkar Joshi
+

@@ -30,7 +30,10 @@ OpenWeatherMap API
 📁 File Structure
 
 weather-app/
+
+
 │
+
 ├── index.html        # Main HTML file
 
 ├── style.css         # Styling
@@ -38,6 +41,7 @@ weather-app/
 ├── script.js         # JavaScript logic (fetch weather, DOM updates)
 
 └── README.md         # Project overview
+
 👨‍💻Author : 
 
 Ojas Onkar Joshi

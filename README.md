@@ -1,5 +1,7 @@
 # PRODIGY_WD_05
+
 🌤️ Weather App
+
 A simple and responsive weather application that fetches real-time weather data based on the user's location or a manually entered city name. Built with HTML, CSS, and JavaScript using the OpenWeatherMap API.
 
 🔧 Features
